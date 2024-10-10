@@ -124,8 +124,8 @@ It should cover most case.
 Composable method name on repos.
 @Query - to write jpql
 
-[!note](you can use the @PersistenceContext to expose the entity manager and
-gain back some control.)
+>[!NOTE]
+>you can use the @PersistenceContext to expose the entity manager and gain back some control.)
 
 
 ### Testing
